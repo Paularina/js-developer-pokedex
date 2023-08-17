@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
- <img src="img/pokedex.jpeg /> 
+ <img src="./img/pokedex.jpeg /> 
